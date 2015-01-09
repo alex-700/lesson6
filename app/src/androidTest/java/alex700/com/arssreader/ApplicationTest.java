@@ -1,4 +1,4 @@
-package com.alex700.rssreader;
+package alex700.com.arssreader;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;
